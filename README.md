@@ -1,2 +1,2 @@
 # username-generator
-Generates random usernames
+Uncomment line 9 and uncomment line 8 for the CLI
